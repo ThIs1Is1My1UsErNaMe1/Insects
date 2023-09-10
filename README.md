@@ -1,2 +1,2 @@
 # Insects
-This is an ML model for detecting two kinds of insects. It is trained on over 19,000 images, however, I couldn't add them to the repository because the files were too big. 
+This is an ML model for detecting two kinds of insects. It is trained on over 19,000 images, however, I couldn't add them to the repository because the files were too big. I used the images of the first 2 types of insects in this Kaggle dataset for reference: https://www.kaggle.com/datasets/cyberthorn/chula-mosquito-classification. I also couldn't add the .h5 file that was generated because the file size was too large. The only way to run this is to open it in Jupyter, and add the image files to the data folder. 
